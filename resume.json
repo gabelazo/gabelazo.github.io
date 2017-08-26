@@ -1,0 +1,145 @@
+{
+	"basics": {
+		"name": "Gabe Lazo",
+		"picture": "profile.png",
+		"email": "gabelazo@gmail.com",
+		"summary": "Experienced devops and support engineer.  5+ years experience supporting business critical enterprise applications.  Led and managed team in troubleshooting and mitigating production issues as well as implementing permanent solutions. 2+ years experience in devops managing and implementing continuous integration workflows, cloud environment provisioning and deployment automation.  I have an excellent record of working cross functionally in advocating for the needs of the business and users.",
+		"location": {
+			"city": "San Francisco",
+			"countryCode": "US",
+			"region": "California"
+		},
+		"profiles": [{
+			"network": "LinkedIn",
+			"username": "gabriellazo",
+			"url": "http://www.linkedin.com/in/gabriellazo"
+		}]
+	},
+	"work": [{
+			"company": "macys.com",
+			"position": "DevOps Lead",
+			"website": "http://www.macys.com",
+			"startDate": "2015-08-01",
+			"summary": "Lead devops team to drive configuration management, build, deployment and monitoring platforms.",
+			"highlights": [
+				"Designed, implemented and maintained deployment automation from code check-in to production.",
+				"Implemented and automated process to create a 1% database that could be used for local development and in CI pipelines.",
+				"Led project to migrate all application deployment from uDeploy and shell scripting to Chef."
+			]
+		},
+		{
+			"company": "macys.com",
+			"position": "Production Support Manager",
+			"website": "http://www.macys.com",
+			"startDate": "2013-04-01",
+			"endDate": "2015-01-01",
+			"summary": "Managed strategic and tactical day-to-day 24x7 operations of marketing and merchandising applications for macys.com.  Managed team in New York to provide rapid response and resolution.",
+			"highlights": [
+				"Liaison between business stakeholders and engineering team.",
+				"Member of round table during holiday season that triaged issues across the entire enterprise."
+			]
+		},
+		{
+			"company": "macys.com",
+			"position": "Lead Production Support Engineer",
+			"website": "http://www.macys.com",
+			"startDate": "2010-03-01",
+			"endDate": "2013-04-01",
+			"summary": "Led team responsible for 24x7 support of marketing and merchandising applications for macys.com.  Applications included product information management, photography workflow management, digital asset management and content management systems.",
+			"highlights": [
+				"Successfully supported the migration of bloomingdales merchandising and marketing business onto multi tenant systems shared with macys.",
+				"Collaborated closely with business analyst and product management teams acting as technical subject matter expert for imaging workflow.",
+				"Designed and implemented monitoring tools for production environments that allowed for proactive response and reporting."
+			]
+		},
+		{
+			"company": "Nuance Communications",
+			"position": "Application Consultant",
+			"website": "http://www.nuance.com",
+			"startDate": "2009-01-01",
+			"endDate": "2010-02-28",
+			"summary": "Designed and implemented systems integration solutions for telecommunications platform.  Worked to upgrade customers to latest release builds.  Managed entire project lifecyle."
+		},
+		{
+			"company": "Sanah Inc",
+			"position": "Technical Consultant",
+			"website": "http://www.sanahinc.com",
+			"startDate": "2006-02-01",
+			"endDate": "2008-06-01",
+			"summary": "Designed and implemented systems integration solutions for a telecommunications client using J2EE.  Managed an offshore team and was accountable for all their deliverables.  Served as technical lead for client and worked to continuously establish best practices."
+		}
+	],
+	"education": [{
+		"institution": "University Of California, Davis",
+		"area": "Computer Science and Engineering with Minor in Music",
+		"studyType": "Bachelor",
+		"startDate": "2000-09-01",
+		"endDate": "2005-12-01"
+	}],
+	"skills": [{
+		"name": "Tools/Technologies",
+		"keywords": [
+			"Jenkins",
+			"Chef",
+			"Gitlab",
+			"Artifactory",
+			"Jira",
+			"Confluence",
+			"Vagrant",
+			"Docker",
+			"Packer",
+			"Maven",
+			"Splunk",
+			"Zabbix",
+			"SiteScope",
+			"ELK Stack",
+			"Hadoop",
+			"Zookeeper",
+			"ActiveMQ"
+		]
+	},
+	{
+		"name": "Application/Web Servers",
+		"keywords": [
+			"Jboss",
+			"Tomcat",
+			"Jetty",
+			"Apache",
+			"Nginx"
+		]
+	},
+	{
+		"name": "Databases",
+		"keywords": [
+			"Oracle",
+			"Postgres"
+		]
+	},
+	{
+		"name": "Languages",
+		"keywords": [
+			"Java",
+			"Ruby",
+			"Shell Scripting",
+			"Python"
+		]
+	},
+	{
+		"name": "Cloud and Operating Systems",
+		"keywords": [
+			"Google Cloud",
+			"Linux (CentOS/RedHat, Ubuntu)",
+			"Windows",
+			"Mac OS"
+		]
+	}],
+	"interests": [{
+		"name": "Music, Fitness, Hiking"
+	}],
+	"languages": [{
+		"language": "English"
+	},
+	{
+		"language": "Spanish"
+	}]
+}
