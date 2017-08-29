@@ -3,7 +3,7 @@
 		"name": "Gabe Lazo",
 		"picture": "profile.png",
 		"email": "gabelazo@gmail.com",
-		"summary": "Experienced devops and support engineer.  5+ years experience supporting business critical enterprise applications.  Led and managed team in troubleshooting and mitigating production issues as well as implementing permanent solutions. 2+ years experience in devops managing and implementing continuous integration workflows, cloud environment provisioning and deployment automation.  I have an excellent record of working cross functionally in advocating for the needs of the business and users.",
+		"summary": "Experienced devops and support engineer.  5+ years experience supporting business critical enterprise applications.  Led and managed team in troubleshooting and mitigating production issues as well as implementing permanent solutions. 2+ years experience in devops managing and implementing continuous integration workflows, cloud environment provisioning and deployment automation.  I have an excellent record of working cross functionally in advocating for the needs of the business and users.  Always eager to learn, mentor and enable people to be the best version of themselves.",
 		"location": {
 			"city": "San Francisco",
 			"countryCode": "US",
@@ -23,7 +23,7 @@
 			"summary": "Lead devops team to drive configuration management, build, deployment and monitoring platforms.",
 			"highlights": [
 				"Designed, implemented and maintained deployment automation from code check-in to production.",
-				"Created and maintained self service dynamic environment provisioning in Google Cloud",
+				"Created and maintained self service dynamic environment provisioning in Google Cloud.",
 				"Led project to migrate all application deployment from uDeploy and shell scripts to Chef."
 			]
 		},
@@ -35,6 +35,9 @@
 			"endDate": "2015-07-01",
 			"summary": "Managed strategic and tactical day-to-day 24x7 operations of marketing and merchandising applications for macys.com.  Managed team in New York to provide rapid response and resolution.",
 			"highlights": [
+				"Created and maintained on-boarding documentation for new support engineers",
+				"Responsible for triaging and tracking over 50 issues per week.",
+				"Worked with engineering and product management teams to prioritize defects and plan for stability enhancements.",
 				"Consistently exceed SLA’s with customers, maintaining a better than 99.9% uptime",
 				"Established excellent relationships with engineering, business and release teams for more effective support services.  Served as liaison between engineering team in SF and creative organization in NY",
 				"Member of round table during holiday season that triaged issues across the entire enterprise."
@@ -46,11 +49,13 @@
 			"website": "http://www.macys.com",
 			"startDate": "2010-03-01",
 			"endDate": "2013-04-01",
-			"summary": "Led team responsible for 24x7 support of marketing and merchandising applications for macys.com.  Applications included product information management, photography workflow management, digital asset management and content management systems.",
+			"summary": "Led team responsible for 24x7 support of marketing and merchandising applications for macys.com.  Applications included product information management, photography workflow management, digital asset management and content management system.",
 			"highlights": [
-				"Successfully supported the migration of bloomingdales merchandising and marketing business onto multi tenant platform shared with macys.",
+				"Successfully supported the migration of bloomingdales merchandising and marketing business onto multi tenant platform shared with macys brand",
 				"Collaborated closely with business analyst and product management teams acting as technical subject matter expert for imaging workflow.",
-				"Designed and implemented monitoring tools for production environments that allowed for proactive response and reporting."
+				"Designed and implemented monitoring tools for production environments that allowed for proactive response and reporting.",
+				"Championed the adoption of ChatOps across multiple teams to allow for transparency, information sharing and rapid response.",
+				"Worked with engineering team to troubleshoot and debug complex production issues."
 			]
 		},
 		{
@@ -59,7 +64,7 @@
 			"website": "http://www.nuance.com",
 			"startDate": "2009-01-01",
 			"endDate": "2010-02-28",
-			"summary": "Designed and implemented systems integration solutions for telecommunications platform.  Worked to upgrade customers to latest release builds.  Managed entire project lifecyle."
+			"summary": "Designed and implemented systems integration solutions for telecommunications platform.  Worked to upgrade customers to latest release builds.  Managed entire project life cycle."
 		},
 		{
 			"company": "Sanah Inc",
