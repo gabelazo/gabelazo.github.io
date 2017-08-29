@@ -23,8 +23,8 @@
 			"summary": "Lead devops team to drive configuration management, build, deployment and monitoring platforms.",
 			"highlights": [
 				"Designed, implemented and maintained deployment automation from code check-in to production.",
-				"Implemented and automated process to create a 1% database that could be used for local development and in CI pipelines.",
-				"Led project to migrate all application deployment from uDeploy and shell scripting to Chef."
+				"Created and maintained self service dynamic environment provisioning in Google Cloud",
+				"Led project to migrate all application deployment from uDeploy and shell scripts to Chef."
 			]
 		},
 		{
@@ -32,10 +32,11 @@
 			"position": "Production Support Manager",
 			"website": "http://www.macys.com",
 			"startDate": "2013-04-01",
-			"endDate": "2015-01-01",
+			"endDate": "2015-07-01",
 			"summary": "Managed strategic and tactical day-to-day 24x7 operations of marketing and merchandising applications for macys.com.  Managed team in New York to provide rapid response and resolution.",
 			"highlights": [
-				"Liaison between business stakeholders and engineering team.",
+				"Consistently exceed SLA’s with customers, maintaining a better than 99.9% uptime",
+				"Established excellent relationships with engineering, business and release teams for more effective support services.  Served as liaison between engineering team in SF and creative organization in NY",
 				"Member of round table during holiday season that triaged issues across the entire enterprise."
 			]
 		},
@@ -47,7 +48,7 @@
 			"endDate": "2013-04-01",
 			"summary": "Led team responsible for 24x7 support of marketing and merchandising applications for macys.com.  Applications included product information management, photography workflow management, digital asset management and content management systems.",
 			"highlights": [
-				"Successfully supported the migration of bloomingdales merchandising and marketing business onto multi tenant systems shared with macys.",
+				"Successfully supported the migration of bloomingdales merchandising and marketing business onto multi tenant platform shared with macys.",
 				"Collaborated closely with business analyst and product management teams acting as technical subject matter expert for imaging workflow.",
 				"Designed and implemented monitoring tools for production environments that allowed for proactive response and reporting."
 			]
