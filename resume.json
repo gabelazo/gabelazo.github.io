@@ -131,6 +131,14 @@
 		]
 	},
 	{
+		"name": "Methodologies",
+		"keywords": [
+			"Agile",
+			"Scrum",
+			"Kanban"
+		]
+	},
+	{
 		"name": "Cloud and Operating Systems",
 		"keywords": [
 			"Google Cloud",
@@ -138,7 +146,8 @@
 			"Windows",
 			"Mac OS"
 		]
-	}],
+	}
+],
 	"interests": [{
 		"name": "Music, Fitness, Hiking"
 	}],
