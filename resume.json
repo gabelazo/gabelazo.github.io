@@ -101,7 +101,8 @@
 			"ELK Stack",
 			"Hadoop",
 			"Zookeeper",
-			"ActiveMQ"
+			"ActiveMQ",
+			"HTTP, TCP/IP, DNS"
 		]
 	},
 	{
@@ -127,7 +128,8 @@
 			"Java",
 			"Ruby",
 			"Shell Scripting",
-			"Python"
+			"Python",
+			"SQL/PLSQL"
 		]
 	},
 	{
