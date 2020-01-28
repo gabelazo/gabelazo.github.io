@@ -3,160 +3,192 @@
 		"name": "Gabe Lazo",
 		"picture": "profile.png",
 		"email": "gabelazo@gmail.com",
-		"summary": "Experienced devops and support engineer.  5+ years experience supporting business critical enterprise applications.  Led and managed team in troubleshooting and mitigating production issues as well as implementing permanent solutions. 2+ years experience in devops managing and implementing continuous integration workflows, cloud environment provisioning and deployment automation.  I have an excellent record of working cross functionally in advocating for the needs of the business and users.  Always eager to learn, mentor and enable people to be the best version of themselves.",
+		"summary": "Experienced devops and enterprise support professional.  Spent last four years helping organizations shift into a devops culture, implementing continuous delivery workflows, migrating infrastructure into the cloud and running web services at scale.  Also spent over five years supporting business critical enterprise applications from low level troubleshooting, debugging and performance tuning to managing teams, and helping drive business initiatives.",
 		"location": {
 			"city": "San Francisco",
 			"countryCode": "US",
 			"region": "California"
 		},
-		"profiles": [{
-			"network": "LinkedIn",
-			"username": "gabriellazo",
-			"url": "http://www.linkedin.com/in/gabriellazo"
-		}]
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "gabriellazo",
+				"url": "https://www.linkedin.com/in/gabriellazo"
+			}
+		]
 	},
-	"work": [{
-			"company": "macys.com",
-			"position": "DevOps Lead",
-			"website": "http://www.macys.com",
-			"startDate": "2015-08-01",
-			"summary": "Lead devops team to drive configuration management, build, deployment and monitoring platforms.",
+	"work": [
+		{
+			"company": "art.com/walmart eCommerce",
+			"position": "Senior Devops Engineer",
+			"website": "https://www.art.com",
+			"startDate": "2017-10-30",
+			"endDate": "2019-05-30",
+			"summary": "Migrated art.com from an on-prem data center to AWS, built and maintained a modern CI/CD infrastructure for maximum agility and re-platformed site from .NET monoliths to modern cloud native java microservices and Node/React frontend applications.",
 			"highlights": [
+				"Provisioned and managed all AWS infrastructure using Terraform across multiple accounts and regions.  Developed terraform modules as well as extended off-the-shelf modules for backing services like Redis, ElasticSearch, RabbitMQ and Cassandra.",
+				"Transformed development practices from traditional fixed release cycles to adoption of continuous delivery.  Championed and evangelized devops culture across various development teams, listening closely to developer pain points in order to make improvements to processes and systems.",
+				"Implemented CI/CD workflows using Jenkins pipelines, Docker, Helm and Spinnaker.  Stressed standards and self-service at every step to enable teams to go from initial commit to production with minimal to zero manual intervention.",
+				"Led devops effort in project to migrate the entire product catalog from Microsoft SQL server to Cassandra.",
+				"Deployed and managed Kubernetes(EKS) clusters for all microservices and backend batch processing using Terraform, Prometheus, AlertManager and Grafana."
+			]
+		},
+		{
+			"company": "macys.com",
+			"position": "Devops Lead",
+			"website": "https://www.macys.com",
+			"startDate": "2015-08-01",
+			"endDate": "2017-10-27",
+			"summary": "Led devops team to drive configuration management, build, deployment and monitoring platforms.",
+			"highlights": [
+				"Led project to migrate all application deployment from uDeploy and shell scripts to Chef.",
 				"Designed, implemented and maintained deployment automation from code check-in to production.",
-				"Created and maintained self service dynamic environment provisioning in Google Cloud.",
-				"Led project to migrate all application deployment from uDeploy and shell scripts to Chef."
+				"Implemented service dynamic environment provisioning in Google Cloud.",
+				"Led project to migrate all internal devops infrastructure from on-prem data center into GCP."
 			]
 		},
 		{
 			"company": "macys.com",
 			"position": "Production Support Manager",
-			"website": "http://www.macys.com",
+			"website": "https://www.macys.com",
 			"startDate": "2013-04-01",
 			"endDate": "2015-07-01",
 			"summary": "Managed strategic and tactical day-to-day 24x7 operations of marketing and merchandising applications for macys.com.  Managed team in New York to provide rapid response and resolution.",
 			"highlights": [
-				"Created and maintained on-boarding documentation for new support engineers.",
-				"Responsible for triaging and tracking over 50 issues per week.",
-				"Worked with engineering and product management teams to prioritize defects and plan for stability enhancements.",
-				"Consistently exceed SLA’s with customers, maintaining a better than 99.9% uptime.",
-				"Established excellent relationships with engineering, business and release teams for more effective support services.  Served as liaison between engineering team in SF and creative organization in NY.",
-				"Member of round table during holiday season that triaged issues across the entire enterprise."
+				"Built, managed and mentored team of four support engineers, both onshore and offshore.",
+				"Consistently exceed SLA’s with customers, maintaining a better than 99.9% uptime",
+				"Established excellent relationships with engineering, business and release teams for more effective support services.  Served as liaison between engineering team in SF and creative/marketing organization in NY.",
+				"Member of round table during critical holiday season that triaged issues across the entire enterprise."
 			]
 		},
 		{
 			"company": "macys.com",
 			"position": "Lead Production Support Engineer",
-			"website": "http://www.macys.com",
+			"website": "https://www.macys.com",
 			"startDate": "2010-03-01",
 			"endDate": "2013-04-01",
-			"summary": "Led team responsible for 24x7 support of marketing and merchandising applications for macys.com.  Applications included product information management, photography workflow management, digital asset management and content management system.",
+			"summary": "Led team responsible for 24x7 support of marketing and merchandising applications for macys.com.  Applications included product information management, photography workflow management, digital asset management and content management systems.",
 			"highlights": [
-				"Successfully supported the migration of bloomingdales merchandising and marketing business onto multi tenant platform shared with macys brand.",
-				"Collaborated closely with business analyst and product management teams acting as technical subject matter expert for imaging workflow.",
-				"Designed and implemented monitoring tools for production environments that allowed for proactive response and reporting.",
-				"Championed the adoption of ChatOps across multiple teams to allow for transparency, information sharing and rapid response.",
-				"Worked with engineering team to troubleshoot and debug complex production issues."
+				"Successfully supported the migration of bloomingdales merchandising and marketing business onto multi tenant platform shared with macys.",
+				"Collaborated closely with business analyst and product management teams acting as technical subject matter expert for imaging and creative workflow.",
+				"Designed and implemented monitoring tools for production environments that allowed for proactive response and reporting using SiteScope and Splunk."
 			]
 		},
 		{
 			"company": "Nuance Communications",
 			"position": "Application Consultant",
-			"website": "http://www.nuance.com",
+			"website": "https://www.nuance.com",
 			"startDate": "2009-01-01",
 			"endDate": "2010-02-28",
-			"summary": "Designed and implemented systems integration solutions for telecommunications platform.  Worked to upgrade customers to latest release builds.  Managed entire project life cycle."
+			"summary": "Designed and implemented systems integration solutions for telecommunications platform.  Worked to upgrade customers to latest release builds.  Managed entire project lifecyle."
 		},
 		{
 			"company": "Sanah Inc",
 			"position": "Technical Consultant",
-			"website": "http://www.sanahinc.com",
+			"website": "https://www.sanahinc.com",
 			"startDate": "2006-02-01",
 			"endDate": "2008-06-01",
 			"summary": "Designed and implemented systems integration solutions for a telecommunications client using J2EE.  Managed an offshore team and was accountable for all their deliverables.  Served as technical lead for client and worked to continuously establish best practices."
 		}
 	],
-	"education": [{
-		"institution": "University Of California, Davis",
-		"area": "Computer Science and Engineering with Minor in Music",
-		"studyType": "Bachelor",
-		"startDate": "2000-09-01",
-		"endDate": "2005-12-01"
-	}],
-	"skills": [{
-		"name": "Tools/Technologies",
-		"keywords": [
-			"Jenkins",
-			"Chef",
-			"Gitlab",
-			"Artifactory",
-			"Jira",
-			"Confluence",
-			"Vagrant",
-			"Docker",
-			"Packer",
-			"Maven",
-			"Splunk",
-			"Zabbix",
-			"SiteScope",
-			"ELK Stack",
-			"Hadoop",
-			"Zookeeper",
-			"ActiveMQ",
-			"HTTP, TCP/IP, DNS"
-		]
-	},
-	{
-		"name": "Application/Web Servers",
-		"keywords": [
-			"Jboss",
-			"Tomcat",
-			"Jetty",
-			"Apache",
-			"Nginx"
-		]
-	},
-	{
-		"name": "Databases",
-		"keywords": [
-			"Oracle",
-			"Postgres"
-		]
-	},
-	{
-		"name": "Languages",
-		"keywords": [
-			"Java",
-			"Ruby",
-			"Shell Scripting",
-			"Python",
-			"SQL/PLSQL"
-		]
-	},
-	{
-		"name": "Methodologies",
-		"keywords": [
-			"Agile",
-			"Scrum",
-			"Kanban"
-		]
-	},
-	{
-		"name": "Cloud and Operating Systems",
-		"keywords": [
-			"Google Cloud",
-			"Linux (CentOS/RedHat, Ubuntu)",
-			"Windows",
-			"Mac OS"
-		]
-	}
-],
-	"interests": [{
-		"name": "Music, Fitness, Hiking"
-	}],
-	"languages": [{
-		"language": "English"
-	},
-	{
-		"language": "Spanish"
-	}]
+	"education": [
+		{
+			"institution": "University Of California, Davis",
+			"area": "Computer Science and Engineering with Minor in Music",
+			"studyType": "Bachelor",
+			"startDate": "2000-09-01",
+			"endDate": "2005-12-01"
+		}
+	],
+	"skills": [
+		{
+			"name": "Tools/Technologies",
+			"level": "Working Knowledge",
+			"keywords": [
+				"Jenkins",
+				"Spinnaker",
+				"Terraform",
+				"Helm",
+				"Chef",
+				"Vagrant",
+				"Docker",
+				"Packer",
+				"Gitlab",
+				"Github",
+				"Artifactory",
+				"Jira",
+				"Confluence",
+				"Maven",
+				"Prometheus",
+				"Grafana",
+				"Splunk",
+				"NewRelic",
+				"Zabbix",
+				"SiteScope",
+				"ELK Stack",
+				"Hadoop",
+				"ActiveMQ",
+				"RabbitMQ",
+				"Consul"
+			]
+		},
+		{
+			"name": "Application/Web Servers",
+			"level": "Working Knowledge",
+			"keywords": [
+				"Jboss",
+				"Tomcat",
+				"Jetty",
+				"Apache",
+				"Nginx"
+			]
+		},
+		{
+			"name": "Datastores",
+			"level": "Working Knowledge",
+			"keywords": [
+				"Oracle",
+				"PostgreSQL",
+				"Cassandra",
+				"Redis",
+				"Elasticsearch",
+				"Solr"
+			]
+		},
+		{
+			"name": "Languages",
+			"level": "Proficient",
+			"keywords": [
+				"Java",
+				"Ruby",
+				"Shell Scripting",
+				"SQL",
+				"Python"
+			]
+		},
+		{
+			"name": "Cloud and Operating Systems",
+			"level": "Working Knowledge",
+			"keywords": [
+				"AWS",
+				"GCP",
+				"Linux (CentOS/RedHat, Ubuntu)",
+				"Windows",
+				"Mac OS"
+			]
+		}
+	],
+	"interests": [
+		{
+			"name": "Music, Classical Guitar, Sewing, Fitness, Hiking"
+		}
+	],
+	"languages": [
+		{
+			"language": "English"
+		},
+		{
+			"language": "Spanish"
+		}
+	]
 }
